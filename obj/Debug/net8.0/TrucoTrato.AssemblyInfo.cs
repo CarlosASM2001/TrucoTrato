@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrucoTrato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f870c3f29d04609e2426eed9ba90585a721a3c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrucoTrato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrucoTrato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
