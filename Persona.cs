@@ -21,5 +21,27 @@ namespace TrucoTrato
             this.type = type.ToUpper();
         }
 
+
+
+
+        public string getTipo()
+        {
+            return this.type;
+        }
+        public string getNombre()
+        {
+            return this.name;
+        }
+
+        public int getEdad()
+        {
+            return this.age;
+        }
+
+        public int getAltura()
+        {
+            return this.height;
+        }
+
     }
 }

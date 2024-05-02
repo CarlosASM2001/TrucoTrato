@@ -1,0 +1,14 @@
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\bin\Debug\net8.0\TrucoTrato.exe
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\bin\Debug\net8.0\TrucoTrato.deps.json
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\bin\Debug\net8.0\TrucoTrato.runtimeconfig.json
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\bin\Debug\net8.0\TrucoTrato.dll
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\bin\Debug\net8.0\TrucoTrato.pdb
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.AssemblyInfoInputs.cache
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.AssemblyInfo.cs
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.csproj.CoreCompileInputs.cache
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.dll
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\refint\TrucoTrato.dll
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.pdb
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\TrucoTrato.genruntimeconfig.cache
+C:\Users\calse\source\repos\TrucoTrato\TrucoTrato\obj\Debug\net8.0\ref\TrucoTrato.dll
